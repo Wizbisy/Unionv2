@@ -27,3 +27,4 @@ node index.js
 ```
 
 i do not take responsibility of future damages to your incentives from [@union](https://x.com/union_build?t=ikeaTZ8PmjDW4YyYSh65Cw&s=09) run at your own will 
+# BUILT FOR EDUCATION PURPOSES
