@@ -2,6 +2,7 @@
 ### clone repository 
 ```bash
 git clone https://github.com/Wizbisy/Unionv2.git
+cd Unionv2
 ```
 ### install dependencies
 ```bash
